@@ -1,8 +1,8 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Firebase Auth Template
 
-## Available Scripts
+### Don't forget to make your own firebase.js file with your own Firebase config before running.
 
-In the project directory, you can run:
+## Available commands
 
 ### `npm start`
 

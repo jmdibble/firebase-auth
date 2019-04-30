@@ -1,8 +1,8 @@
 # Firebase Auth Template
 
-A reusable template with a super basic Firebase authentication set up in React. 
-
 ### Don't forget to make your own firebase.js file with your own Firebase config before running.
+
+A reusable template with a super basic Firebase authentication set up in React. 
 
 ## Available commands
 
